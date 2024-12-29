@@ -1,0 +1,16 @@
+com\example\weather\WeatherAlert.class
+com\example\weather\WeatherApiConfig.class
+com\example\database\DatabaseService.class
+WeatherData.class
+com\example\weather\WeatherMonitorMain.class
+com\example\controller\WeatherSummaryController.class
+com\example\weather\WeatherMonitorService.class
+com\example\weather\WeatherRecord.class
+META-INF\spring-configuration-metadata.json
+com\example\weather\WeatherSummaryService.class
+com\example\weather\WeatherService$WeatherData.class
+com\example\database\DailyWeatherSummaryService.class
+com\example\database\DailyWeatherSummaryRepository.class
+com\example\weather\WeatherService.class
+com\example\database\DailyWeatherSummary.class
+com\example\weather\WeatherMonitorService$WeatherData.class
